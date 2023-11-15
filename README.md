@@ -70,7 +70,7 @@ Marmoset Grounds by TRUCK1ST
 
 6.1.1 Types of Cookies: There are various types of cookies used, including session cookies (temporary cookies that expire when you close the browser) and persistent cookies (that remain on your device for a longer duration).
 
-6.1.2 Functionality Cookies: These cookies enable certain functionalities within BlockyWorld, like remembering your preferences, progress, and in-game settings, so you have a consistent experience every time you play.
+6.1.2 Functionality Cookies: These cookies enable certain functionalities within Marmoset Grounds, like remembering your preferences, progress, and in-game settings, so you have a consistent experience every time you play.
 
 6.1.3 Performance & Analytics Cookies: These help us understand user behavior, performance metrics, and other analytical data, which in turn aids in improving the App's efficiency.
 
@@ -92,7 +92,7 @@ Marmoset Grounds by TRUCK1ST
 
 8. SECURITY MEASURES
 
-8.1 Our Commitment to Security: we understand the importance of safeguarding your information. We implement a variety of security measures to maintain the safety of your personal information when you access and use BlockyWorld.
+8.1 Our Commitment to Security: we understand the importance of safeguarding your information. We implement a variety of security measures to maintain the safety of your personal information when you access and use Marmoset Grounds.
 
 8.1.1 Technical Measures: These include firewalls, data encryption, secure server infrastructure, and regular monitoring of potential vulnerabilities and attacks.
 
@@ -110,7 +110,7 @@ Marmoset Grounds by TRUCK1ST
 
 9.1.2 Deletion of Data: Once the purpose of data collection and processing is achieved and there is no legal or business need to retain it, we ensure that personal data is deleted, anonymized, or isolated in a manner that it is inaccessible for regular use.
 
-9.1.3 User Account Deactivation: If you choose to deactivate or delete your BlockyWorld account, we will retain some of your information as required by legal obligations, dispute resolutions, or to enforce our agreements.
+9.1.3 User Account Deactivation: If you choose to deactivate or delete your Marmoset Grounds account, we will retain some of your information as required by legal obligations, dispute resolutions, or to enforce our agreements.
 
 10. YOUR RIGHTS AND CHOICES
 
